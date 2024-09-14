@@ -9,6 +9,7 @@ from bot import (
     helper_buttons,
     helper_handlers,
     join_buttons,
+    authorized_users_only,
 )
 
 
@@ -43,6 +44,7 @@ async def start_handler(client: Client, message: Message) -> None:
 
 
 @Client.on_message(filters.private & filters.command("privacy"))
+@authorized_users_only
 async def privacy_handler(client: Client, message: Message) -> None:
     privacy_policy = f"""
 <b>Privacy Policy for {client.me.first_name.title()}</b>
