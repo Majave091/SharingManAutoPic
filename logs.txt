@@ -1,0 +1,48 @@
+2024-09-14 | 02:33:26 [ INFO  ] fsub.bot -> Uvloop: Set Event Loop
+2024-09-14 | 02:33:26 [ INFO  ] fsub.bot -> MongoDB: Connecting...
+2024-09-14 | 02:33:27 [ INFO  ] fsub.bot -> MongoDB: Connected
+2024-09-14 | 02:33:27 [ INFO  ] fsub.bot -> Bot: Starting...
+2024-09-14 | 02:33:27 [ INFO  ] fsub.bot -> Bot: Started
+2024-09-14 | 02:33:28 [ INFO  ] fsub.bot -> Generate Url: Existed
+2024-09-14 | 02:33:28 [ INFO  ] fsub.bot -> Protect Content: Existed
+2024-09-14 | 02:33:28 [ INFO  ] fsub.bot -> Hun Text: Existed
+2024-09-14 | 02:33:28 [ INFO  ] fsub.bot -> Img Text: Existed
+2024-09-14 | 02:33:28 [ INFO  ] fsub.bot -> Force Text: Existed
+2024-09-14 | 02:33:28 [ INFO  ] fsub.bot -> Start Text: Existed
+2024-09-14 | 02:33:28 [ INFO  ] fsub.bot -> ChatDB: -1002333821326
+2024-09-14 | 02:33:28 [ INFO  ] fsub.bot -> Bot Admin 1: 6312594194
+2024-09-14 | 02:33:28 [ INFO  ] fsub.bot -> Sub. Chat 1: -1002293879343
+2024-09-14 | 02:33:28 [ INFO  ] fsub.bot -> Sub. Chat 2: -1002393905160
+2024-09-14 | 02:33:28 [ INFO  ] fsub.bot -> BroadcastID: None, None
+2024-09-14 | 02:33:28 [ INFO  ] fsub.bot -> @Cripstok_Robot 7081055048
+2024-09-14 | 02:33:28 [ INFO  ] fsub.bot -> Bot Activated!
+2024-09-14 | 02:33:32 [ INFO  ] fsub.bot -> KeyboardInterrupt: Terminating...
+2024-09-14 | 02:33:32 [ INFO  ] fsub.bot -> Bot: Stopping...
+2024-09-14 | 02:33:32 [ INFO  ] fsub.bot -> Bot: Stopping...
+2024-09-14 | 02:33:32 [ INFO  ] fsub.bot -> Bot: Stopped
+2024-09-14 | 02:33:32 [ INFO  ] fsub.bot -> MongoDB: Closing...
+2024-09-14 | 02:33:32 [ INFO  ] fsub.bot -> MongoDB: Closed
+2024-09-14 | 09:14:39 [ INFO  ] fsub.bot -> Uvloop: Set Event Loop
+2024-09-14 | 09:14:39 [ INFO  ] fsub.bot -> MongoDB: Connecting...
+2024-09-14 | 09:14:39 [ INFO  ] fsub.bot -> MongoDB: Connected
+2024-09-14 | 09:14:39 [ INFO  ] fsub.bot -> Bot: Starting...
+2024-09-14 | 09:14:45 [ INFO  ] fsub.bot -> Bot: Started
+2024-09-14 | 09:14:45 [ INFO  ] fsub.bot -> Generate Url: Existed
+2024-09-14 | 09:14:45 [ INFO  ] fsub.bot -> Protect Content: Existed
+2024-09-14 | 09:14:45 [ INFO  ] fsub.bot -> Hun Text: Existed
+2024-09-14 | 09:14:45 [ INFO  ] fsub.bot -> Img Text: Existed
+2024-09-14 | 09:14:45 [ INFO  ] fsub.bot -> Force Text: Existed
+2024-09-14 | 09:14:45 [ INFO  ] fsub.bot -> Start Text: Existed
+2024-09-14 | 09:14:45 [ INFO  ] fsub.bot -> ChatDB: -1002333821326
+2024-09-14 | 09:14:45 [ INFO  ] fsub.bot -> Bot Admin 1: 6312594194
+2024-09-14 | 09:14:45 [ INFO  ] fsub.bot -> Sub. Chat 1: -1002293879343
+2024-09-14 | 09:14:45 [ INFO  ] fsub.bot -> Sub. Chat 2: -1002393905160
+2024-09-14 | 09:14:45 [ INFO  ] fsub.bot -> BroadcastID: None, None
+2024-09-14 | 09:14:45 [ INFO  ] fsub.bot -> @Cripstok_Robot 7081055048
+2024-09-14 | 09:14:45 [ INFO  ] fsub.bot -> Bot Activated!
+2024-09-14 | 09:15:37 [ INFO  ] fsub.bot -> KeyboardInterrupt: Terminating...
+2024-09-14 | 09:15:37 [ INFO  ] fsub.bot -> Bot: Stopping...
+2024-09-14 | 09:15:37 [ INFO  ] fsub.bot -> Bot: Stopping...
+2024-09-14 | 09:15:37 [ INFO  ] fsub.bot -> Bot: Stopped
+2024-09-14 | 09:15:37 [ INFO  ] fsub.bot -> MongoDB: Closing...
+2024-09-14 | 09:15:37 [ INFO  ] fsub.bot -> MongoDB: Closed
