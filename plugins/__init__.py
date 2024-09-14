@@ -13,7 +13,7 @@ list_available_commands = [
 
 list_nouser_commands = [
     "ping",
-    "privacy",
+#    "privacy",
     "start",
 #    "stop",
 #    "users",
