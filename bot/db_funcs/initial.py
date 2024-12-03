@@ -28,10 +28,10 @@ async def initial_database() -> None:
         "To view messages shared by bots, join first, then press the Try Again button."
     )
     default_hun_text = (
-        "https://telegra.ph/file/ec17880d61180d3312d6a.jpg"
+        "https://im.gurl.eu.org/file/AgACAgEAAxkDAAOvZ073oPuVGpESRKlxzoUQrBAQDloAApOxMRt_vHlGWWd5mu60EJsBAAMCAAN5AAM2BA.jpg"
     )
     default_img_text = (
-        "https://telegra.ph/file/e292b12890b8b4b9dcbd1.jpg"
+        "https://im.gurl.eu.org/file/AgACAgEAAxkDAAOwZ0731kCFpCGuY1uWpnVmwgF43-sAApSxMRt_vHlGKHKfwBuyHgcBAAMCAAN5AAM2BA.jpg"
     )
     default_key_value_db: Dict[str, bool] = {
         "GENERATE_URL": False,
