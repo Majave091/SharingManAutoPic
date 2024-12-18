@@ -79,23 +79,23 @@ class Bot(Client):
         logger.info("MongoDB: Closing...")
         await database.close()
 
-    async def bot_commands_setup(self) -> None:
-        """
-        Sets up the bot commands for user interaction.
-        """
-        await self.delete_bot_commands()
-        try:
-            await self.set_bot_commands(
-                commands=[
-                    BotCommand("start", "Start Bot"),
-                    BotCommand("ping", "Server Latency"),
-                    BotCommand("uptime", "Bot Uptime Fitur Admin"),
-                    BotCommand("privacy", "Privacy Policy"),
-                ],
-                scope=BotCommandScopeAllPrivateChats(),
-            )
-        except errors.RPCError:
-            pass
+#    async def bot_commands_setup(self) -> None:
+#        """
+#        Sets up the bot commands for user interaction.
+#        """
+#        await self.delete_bot_commands()
+#        try:
+#            await self.set_bot_commands(
+#                commands=[
+#                    BotCommand("start", "Start Bot"),
+#                    BotCommand("ping", "Server Latency"),
+#                    BotCommand("uptime", "Bot Uptime Fitur Admin"),
+ #                   BotCommand("privacy", "Privacy Policy"),
+#                ],
+  #              scope=BotCommandScopeAllPrivateChats(),
+#            )
+  #      except errors.RPCError:
+    #        pass
 
 
 # Instantiate the bot
